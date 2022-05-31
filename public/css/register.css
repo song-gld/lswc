@@ -1,0 +1,65 @@
+.paths {
+    height: 30px;
+    line-height: 30PX;
+    border-bottom: solid 1px #DDD;
+    padding-left: 15px;
+}
+a {
+    color: #313F61;
+    text-decoration: none;    
+}
+.condition-left {    
+    border-right: solid 1px #DDD;
+    padding-top: 50px;    
+}
+.condition-left .left-line {
+    padding-right: 0;
+}
+.condition-left .right-line {
+    padding-left: 0;
+}
+.line {
+    width: 100%;
+    border-bottom: 1px solid #DDD;
+    border-color: #FE8500;
+}
+.right-line .line{
+    border-color: #DDD;   
+}
+.condition-left p {
+    color: #FE8500;
+    font-weight: bold;
+    padding-top: 20px;
+}
+.table-register {
+    margin: 20px auto;
+}
+.table-register tr {
+    height: 50px;
+}
+.table-register td {
+    padding: 8px 10px;
+    color: #000;
+    min-width: 90px;
+    text-align-last: justify;    
+}
+.table-register td input {
+    height: 28px;
+    line-height: 27px;
+    border: solid 1px #A9A9A9;
+    border-radius: 5px;
+    padding: 0 5px;
+    text-align-last:left;
+}
+.text-dark {
+    color: #404040 !important;    
+}
+.text-yellow {
+    color: #FE8500 !important;
+}
+.line-dark {
+    border-color: #DDD !important;   
+}
+.line-yellow {
+    border-color: #FE8500 !important;
+}

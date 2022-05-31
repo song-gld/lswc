@@ -1,0 +1,94 @@
+* {
+    box-sizing: border-box;
+}
+.header {
+    height: 120px;    
+}
+.nav-left a {
+    text-decoration: none;
+}
+.logo {
+    line-height: 120px;
+    font-size: 30px;
+    font-weight: bolder;
+    color: #003E7D;
+}
+.nav-right {
+    padding-right: 0;
+    font-size: 13px;
+}
+.right-top>span {
+    float: right;
+    margin: 20px 0;
+}
+.right-top a {
+    color: #313F61;
+    text-decoration: none;    
+}
+.form-logout {
+    display: inline !important;
+}
+
+/* 搜索框样式 */
+.search-right {
+    width: 228px;
+    height: 26px;
+    line-height: 26px;
+    border: 1px solid #999;
+    border-bottom-color: #E5E5E5;
+    border-right-color: #E5E5E5;
+    float: right;
+}
+.submit-right {    
+    background: url(../img/submit.jpg) no-repeat left top;
+    height: 26px;
+    width: 33px;
+    cursor: pointer;
+    border: none;
+    float: right;
+    outline: none;
+}
+/* 导航栏 */
+.nav {
+    height: 46px;
+    background-color: #E7E8EB;
+    border-bottom: solid 3px #003E7D;
+    font-weight: bold;
+    float:none;
+}
+.indexBtn {
+    width: 70px;
+    height: 43px;
+    background-color: #ff7f00;
+    float: left;
+    text-align: center;
+}
+.nav dl {
+    float: left;
+    line-height: 46px;
+    padding: 0 0 0 20px;
+    margin-bottom: 0 !important;
+}
+.nav dl dd {
+    float: left;
+    padding: 0 0 0 88px;
+}
+/* 底部 */
+.footer-all {
+    height: 80px;
+    background: #f4f4f4;
+    color: #303D5D;
+    text-align: center;
+    font-size: 12px; 
+    margin-top: 30px;   
+}
+.copyright-left {
+    height: 80px;    
+    padding-top: 20px;
+}
+.paths {
+    height: 30px;
+    line-height: 30PX;
+    border-bottom: solid 1px #DDD;
+    padding-left: 15px;
+}

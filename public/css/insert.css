@@ -1,0 +1,25 @@
+.row-top {
+    border-left: 1px solid #DDD;
+    border-right: 1px solid #DDD;
+}
+th {
+    text-align: center;
+    padding: 15px 0;
+}
+.top {    
+    border-bottom: 1px solid #DDD;
+}
+.top table {
+    width: 100%;  
+    border-collapse: separate !important;
+    border-spacing: 10px !important;  
+}
+
+.row-bottom {
+    border-left: 1px solid #DDD;
+    border-right: 1px solid #DDD;
+}
+/* 下方展示表格 */
+.row-bottom table {
+    margin-top: 10px;
+}

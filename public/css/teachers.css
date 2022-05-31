@@ -1,0 +1,16 @@
+.row-top {
+    border-left: 1px solid #DDD;
+    border-right: 1px solid #DDD;
+}
+.top {    
+    border-bottom: 1px solid #DDD;
+}
+.top table {
+    width: 100%;  
+    border-collapse: separate !important;
+    border-spacing: 6px !important;  
+}
+th {
+    text-align: center;
+    padding: 1px 0;
+}
